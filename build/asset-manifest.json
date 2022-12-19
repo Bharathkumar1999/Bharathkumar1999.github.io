@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.6318b0a6.js",
+    "main.css": "/static/css/main.addaeef7.css",
+    "main.js": "/static/js/main.f74f9278.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Screenshot (222).png": "/static/media/Screenshot (222).5a315cd88c61b505eec2.png",
+    "static/media/00.jpg": "/static/media/00.d3286d122c43d1d876f7.jpg",
+    "static/media/Screenshot (227).png": "/static/media/Screenshot (227).d7bd77905cc4d01ef201.png",
+    "static/media/Screenshot (224).png": "/static/media/Screenshot (224).8bdd13661b4930d1daba.png",
+    "static/media/Bharath-Kumar-Resume.pdf": "/static/media/Bharath-Kumar-Resume.5348222c26e1fc0e0fa8.pdf",
+    "static/media/Screenshot (225).png": "/static/media/Screenshot (225).f8a2568c19edab8f65a1.png",
+    "static/media/logo-3.png": "/static/media/logo-3.0cc99dfceeb6ccb892f0.png",
+    "static/media/logo-2.png": "/static/media/logo-2.35e7a7fef61592330495.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.6318b0a6.js.map": "/static/js/main.6318b0a6.js.map",
+    "main.addaeef7.css.map": "/static/css/main.addaeef7.css.map",
+    "main.f74f9278.js.map": "/static/js/main.f74f9278.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6318b0a6.js"
+    "static/css/main.addaeef7.css",
+    "static/js/main.f74f9278.js"
   ]
 }

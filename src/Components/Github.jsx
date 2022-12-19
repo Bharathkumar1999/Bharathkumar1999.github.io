@@ -176,7 +176,7 @@ import { BsGithub } from "react-icons/bs";
               style={{
                 margin: "auto",
               }}
-              username="atrivedi8988"
+              username="Bharathkumar1999"
               year={new Date().getFullYear()}
             />
           </Box>
